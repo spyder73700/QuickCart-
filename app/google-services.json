@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "1043764619442",
+    "project_id": "shopping-app-admin-a2b7f",
+    "storage_bucket": "shopping-app-admin-a2b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043764619442:android:05f0ac7d1ac3e2e513c1ab",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043764619442-kgbkhq8gb368e74ek2pseci6987s9t3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shopping",
+            "certificate_hash": "641e46161a5006e702d6f60afe7bd578e00f5f4b"
+          }
+        },
+        {
+          "client_id": "1043764619442-bfivan649gdhaa521155113trge174nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDEtf23JzqSe1fY-Y6xajcuE8jcFCOCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043764619442-bfivan649gdhaa521155113trge174nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043764619442:android:0d5e534a69be0ef013c1ab",
+        "android_client_info": {
+          "package_name": "com.example.shoppingappadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043764619442-bfivan649gdhaa521155113trge174nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApDEtf23JzqSe1fY-Y6xajcuE8jcFCOCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043764619442-bfivan649gdhaa521155113trge174nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
