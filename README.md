@@ -7,20 +7,17 @@ QuickCart is a meticulously crafted e-commerce platform designed for efficiency 
 *   **Intuitive Product Catalog:**  Effortlessly browse a diverse range of products.
 *   **Dynamic Shopping Cart Management:**  Conveniently add, modify, and remove items from your cart.
 *   **Simplified Checkout Process:**  A streamlined checkout simulation (Note: This implementation does not include live payment gateway integration).
-*   **Responsive Design (If applicable):**  Ensures optimal viewing across a variety of devices.
+*   **Responsive Design:**  Ensures optimal viewing across a variety of devices.
 
 ## Technology Stack
 
-*   **Frontend:** HTML, CSS, JavaScript (Please list all frontend technologies used)
-*   **Backend (If applicable):**  (List all backend technologies, e.g., Python/Flask, Node.js/Express, Java/Spring)
-*   **Database (If applicable):** (Specify the database used, e.g., MySQL, PostgreSQL, MongoDB)
-*   **Other Technologies (If applicable):** (List any other relevant technologies or libraries)
-
-## Getting Started
-
-### Prerequisites
-
-(List any software prerequisites, e.g., Node.js, Python, specific database versions)
+*   **Frontend:** XML (for layout), Kotlin (for logic and interaction)
+*   **Backend:** Firebase
+*   **Database:** Firebase Realtime Database
+*   **Other Technologies:**
+    *   Android SDK
+    *   Firebase SDK
+    *   Glide (for image loading)
 
 ### Installation
 
