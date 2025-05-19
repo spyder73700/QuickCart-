@@ -1,4 +1,4 @@
-# QuickCart: A Streamlined E-commerce Solution
+![Screenshot 2025-05-20 003033](https://github.com/user-attachments/assets/bc979266-d13c-4e98-8ac8-7ba57b5b0711)# QuickCart: A Streamlined E-commerce Solution
 
 QuickCart is a meticulously crafted e-commerce platform designed for efficiency and user-friendliness.  This project offers a foundational structure for online retail applications, emphasizing a seamless browsing and purchasing experience.  It serves as an excellent educational resource and a springboard for developing more sophisticated e-commerce systems.
 
@@ -18,6 +18,21 @@ QuickCart is a meticulously crafted e-commerce platform designed for efficiency 
     *   Android SDK
     *   Firebase SDK
     *   Glide (for image loading)
+### Images
+![Screenshot 2025-05-20 003021](https://github.com/user-attachments/assets/5961a7da-d6c6-4b24-b826-6b478376ca11)
+![Screenshot 2025-05-20 003033](https://github.com/user-attachments/assets/400687d7-763f-49e5-afe6-8327f9e150e5)
+![Screenshot 2025-05-20 003047](https://github.com/user-attachments/assets/89d029ea-6fd0-460c-8b56-29f9f4f1ae31)
+![Screenshot 2025-05-20 003107](https://github.com/user-attachments/assets/ecd0c3c8-0c7b-43f7-8098-b0233dd5ce43)
+![Screenshot 2025-05-20 003120](https://github.com/user-attachments/assets/270644f6-c31b-41de-8399-12987da3ab0a)
+![Screenshot 2025-05-20 003151](https://github.com/user-attachments/assets/a39402a1-1c8d-4256-8519-b27db20f6743)
+![Screenshot 2025-05-20 003212](https://github.com/user-attachments/assets/6128ec19-097c-4676-bb00-9cb9f017aa79)
+![Screenshot 2025-05-20 003229](https://github.com/user-attachments/assets/8ccc894e-9fb2-4891-9fee-5ed3d05da5a0)
+![Screenshot 2025-05-20 003332](https://github.com/user-attachments/assets/6918b483-44e1-4f84-9332-574ab187e3be)
+![Screenshot 2025-05-20 003639](https://github.com/user-attachments/assets/15340d3a-61fd-41d7-9b08-f9e15a522716)
+![Screenshot 2025-05-20 003914](https://github.com/user-attachments/assets/20bbf25a-2679-4171-9f88-04ee31e459d1)
+![Screenshot 2025-05-20 003942](https://github.com/user-attachments/assets/70136c3d-6896-4e88-8e0a-e6d77c6d00b3)
+![Screenshot 2025-05-20 004018](https://github.com/user-attachments/assets/4eea3e74-099b-41df-bbbd-11ff3c002034)
+
 
 ### Installation
 
