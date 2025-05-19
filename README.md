@@ -11,7 +11,7 @@ QuickCart is a meticulously crafted e-commerce platform designed for efficiency 
 
 ## Technology Stack
 
-*   **Frontend:** XML (for layout), Kotlin (for logic and interaction)
+*   **Frontend:**JetPack Compose(for UI), Kotlin (for logic and interaction)
 *   **Backend:** Firebase
 *   **Database:** Firebase Realtime Database
 *   **Other Technologies:**
